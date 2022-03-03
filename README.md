@@ -1,2 +1,3 @@
 # Repo-Gauty
-Untuk Belajar
+1. Untuk Belajar 
+2. Saya tambah
